@@ -9,7 +9,7 @@ YAGNI: (You Aren't Going to Need It): Only necessary functionality
 Program include three main functions:
 celsius_to_fahrenheit: Converts Celsius to Fahrenheit
 fahrenheit_to_celsius: Converts Fahrenheit to Celsius
-main: Manages user interaction and displays resluts
+main: Manages user interaction and displays results
 """
 
 def celsius_to_fahrenheit(celsius):
